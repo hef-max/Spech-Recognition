@@ -1,0 +1,32 @@
+{"intents":
+  [
+  {"tag": "greeting",
+  "patterns": ["hey", "hello", "lacia", "woy", "what's up", "how its going"],
+  "responses": ["hello, yes sir"],
+  "context_set": ""
+  },
+  {"tag": "stocks",
+  "patterns": ["how are my stocks?"],
+  "responses": ["showing investement"],
+  "context_set": ""
+  },
+  {"tag": "todoshow",
+  "patterns": ["show to do my list"],
+  "responses": ["showing todo my list"],
+  "context_set": ""
+  },
+  {"tag": "todoadd",
+  "patterns": ["add something to do my todo list"],
+  "responses": ["adding to do my list"],
+  "context_set": ""
+  },
+  {"tag": "todoremov",
+  "patterns": ["remove"],
+  "responses": ["remove"],
+    "context_set": ""
+  },
+    {"tag": "exit",
+  "patterns": ["bye", "goodbye", "i want exit"],
+  "responses": ["exit"]}
+
+]}

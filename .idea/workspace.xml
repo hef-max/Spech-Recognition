@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e43755f-d5b1-43fd-8d44-12fac9b87e2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tpTnKKDEQ8qvUagWskIsyEWpnx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HEFRY ANESTI\Desktop\project\pychat" />
+      <recent name="C:\Users\HEFRY ANESTI\Desktop\project\pychat\image" />
+      <recent name="C:\Users\HEFRY ANESTI\Desktop\project\pychat\AI_assisten" />
+      <recent name="C:\Users\HEFRY ANESTI\Desktop\project\pychat\AI_assisten\music" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.videoAI">
+    <configuration name="objectDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objectDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pychat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pychat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoAI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoAI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vtuberAI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vtuberAI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.videoAI" />
+        <item itemvalue="Python.vtuberAI" />
+        <item itemvalue="Python.pychat" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.objectDetection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e43755f-d5b1-43fd-8d44-12fac9b87e2c" name="Default Changelist" comment="" />
+      <created>1623465197013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623465197013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644071981531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644071981531" />
+    <state width="714" height="305" key="GridCell.Tab.0.bottom" timestamp="1642683670750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="714" height="305" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642683670750" />
+    <state width="714" height="305" key="GridCell.Tab.0.center" timestamp="1642683670750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="714" height="305" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642683670750" />
+    <state width="714" height="305" key="GridCell.Tab.0.left" timestamp="1642683670750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="714" height="305" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642683670750" />
+    <state width="714" height="305" key="GridCell.Tab.0.right" timestamp="1642683670750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="714" height="305" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642683670750" />
+    <state width="665" height="227" key="GridCell.Tab.1.bottom" timestamp="1638698723125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="665" height="227" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638698723125" />
+    <state width="665" height="227" key="GridCell.Tab.1.center" timestamp="1638698723125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="665" height="227" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1638698723125" />
+    <state width="665" height="227" key="GridCell.Tab.1.left" timestamp="1638698723125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="665" height="227" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1638698723125" />
+    <state width="665" height="227" key="GridCell.Tab.1.right" timestamp="1638698723125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="665" height="227" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1638698723125" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1644072306832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1644072306832" />
+    <state x="670" y="0" width="699" height="735" key="dock-window-1" timestamp="1639273488664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="670" y="0" width="699" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1639273488664" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1644072558629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1644072558629" />
+  </component>
+</project>
